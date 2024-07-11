@@ -1,0 +1,14 @@
+C:\Users\anderson.ferreira\Documents\EstudoCSharp\EstoqueLivraria\bin\Debug\net8.0\EstoqueLivraria.exe
+C:\Users\anderson.ferreira\Documents\EstudoCSharp\EstoqueLivraria\bin\Debug\net8.0\EstoqueLivraria.deps.json
+C:\Users\anderson.ferreira\Documents\EstudoCSharp\EstoqueLivraria\bin\Debug\net8.0\EstoqueLivraria.runtimeconfig.json
+C:\Users\anderson.ferreira\Documents\EstudoCSharp\EstoqueLivraria\bin\Debug\net8.0\EstoqueLivraria.dll
+C:\Users\anderson.ferreira\Documents\EstudoCSharp\EstoqueLivraria\bin\Debug\net8.0\EstoqueLivraria.pdb
+C:\Users\anderson.ferreira\Documents\EstudoCSharp\EstoqueLivraria\obj\Debug\net8.0\EstoqueLivraria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anderson.ferreira\Documents\EstudoCSharp\EstoqueLivraria\obj\Debug\net8.0\EstoqueLivraria.AssemblyInfoInputs.cache
+C:\Users\anderson.ferreira\Documents\EstudoCSharp\EstoqueLivraria\obj\Debug\net8.0\EstoqueLivraria.AssemblyInfo.cs
+C:\Users\anderson.ferreira\Documents\EstudoCSharp\EstoqueLivraria\obj\Debug\net8.0\EstoqueLivraria.csproj.CoreCompileInputs.cache
+C:\Users\anderson.ferreira\Documents\EstudoCSharp\EstoqueLivraria\obj\Debug\net8.0\EstoqueLivraria.dll
+C:\Users\anderson.ferreira\Documents\EstudoCSharp\EstoqueLivraria\obj\Debug\net8.0\refint\EstoqueLivraria.dll
+C:\Users\anderson.ferreira\Documents\EstudoCSharp\EstoqueLivraria\obj\Debug\net8.0\EstoqueLivraria.pdb
+C:\Users\anderson.ferreira\Documents\EstudoCSharp\EstoqueLivraria\obj\Debug\net8.0\EstoqueLivraria.genruntimeconfig.cache
+C:\Users\anderson.ferreira\Documents\EstudoCSharp\EstoqueLivraria\obj\Debug\net8.0\ref\EstoqueLivraria.dll
