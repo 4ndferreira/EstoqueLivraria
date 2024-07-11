@@ -1,3 +1,4 @@
+using EstoqueLivraria.Models;
 namespace EstoqueLivraria.Controllers;
 
 public class EstoqueController

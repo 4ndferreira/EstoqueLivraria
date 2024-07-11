@@ -1,3 +1,5 @@
+namespace EstoqueLivraria.Models;
+
 public class Estoque
 {
   private readonly List<Livro> livros = [];

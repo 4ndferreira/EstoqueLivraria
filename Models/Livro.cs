@@ -1,4 +1,4 @@
-
+namespace EstoqueLivraria.Models;
 
 public class Livro
 {

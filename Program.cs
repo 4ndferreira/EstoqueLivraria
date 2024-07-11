@@ -1,19 +1,15 @@
 ﻿using EstoqueLivraria.Controllers;
+using EstoqueLivraria.Models;
 
 Estoque estoque = new();
 
 bool sairDoPrograma = false;
 
+
 while (!sairDoPrograma)
 {
-  Console.WriteLine("CONTROLE DE ESTOQUE - LIVRARIA\n");
-  Console.WriteLine("[1] Novo");
-  Console.WriteLine("[2] Lista Produtos");
-  Console.WriteLine("[3] Remover Produtos");
-  Console.WriteLine("[4] Entrada Estoque");
-  Console.WriteLine("[5] Saida Estoque");
-  Console.WriteLine("[0] Sair\n");
-
+  MenuController.MostrarMenu();
+  
   Console.Write("Escolha uma opção: ");
   int escolha = Convert.ToInt32(Console.ReadLine());
   Console.WriteLine();
@@ -21,7 +17,7 @@ while (!sairDoPrograma)
   switch (escolha)
   {
     case 0:
-
+      sairDoPrograma = true;
       Console.Write("Saindo do programa...");
       break;
     case 1:

@@ -12,3 +12,4 @@ C:\Users\anderson.ferreira\Documents\EstudoCSharp\EstoqueLivraria\obj\Debug\net8
 C:\Users\anderson.ferreira\Documents\EstudoCSharp\EstoqueLivraria\obj\Debug\net8.0\EstoqueLivraria.pdb
 C:\Users\anderson.ferreira\Documents\EstudoCSharp\EstoqueLivraria\obj\Debug\net8.0\EstoqueLivraria.genruntimeconfig.cache
 C:\Users\anderson.ferreira\Documents\EstudoCSharp\EstoqueLivraria\obj\Debug\net8.0\ref\EstoqueLivraria.dll
+C:\Users\anderson.ferreira\Documents\EstudoCSharp\EstoqueLivraria\obj\Debug\net8.0\EstoqueLivraria.sourcelink.json
